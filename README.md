@@ -1,6 +1,6 @@
 # SoleSphere
 
-**SoleSphere** is a modern shoe‑ecommerce platform that offers a seamless shopping experience, built with React, Node.js, Tailwind CSS, and MongoDB.
+**SoleSphere** is a modern shoe‑ecommerce platform that offers a seamless shopping experience, built with HTML,CSS and JavaScript.
 
 ## Features
 - Browse shoe products with filters and categories  
